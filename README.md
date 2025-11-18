@@ -1,3 +1,3 @@
-# check-page-load
+# check-page-load running
 
-Run with `node scan.js`
+Edit variable `testUrl` and run with command `node scan.js`
